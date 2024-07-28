@@ -8,7 +8,9 @@
     </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=taylormck&style=flat-square&color=blue" alt="" align="center">
+<div id="profile-views" align="center">
+    <img src="https://komarev.com/ghpvc/?username=taylormck&style=flat-square&color=blue" alt="Profile Views">
+</div>
 
 ### 🌸 About Me:
 
