@@ -62,6 +62,6 @@ I'm a full-time full-stack web developer <img src="https://i.giphy.com/media/v1.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taylormck&theme=catppuccin-mocha&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taylormck&icons=true&theme=catppuccin_mocha)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taylormck&show_icons=true&theme=catppuccin_mocha)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taylormck&theme=catppuccin_mocha&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
