@@ -26,7 +26,7 @@ I'm a full-time full-stack web developer and occasional freelance game developer
 - 🤔 I’m looking for help with Game Boy emulators and coding up new game engines from scratch.
 - 💬 Ask me about the my favorite new programming language (for now): Odin.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taylor-mckinney-bb638398)
-- 󰈙 See my resume: [My resume](https://github.com/taylormck/resume/blob/master/resume.pdf)
+- 📜 See my resume: [My resume](https://github.com/taylormck/resume/blob/master/resume.pdf)
 
 ---
 
