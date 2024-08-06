@@ -14,7 +14,7 @@
 
 ### 🌸 About Me:
 
-I'm a full-time full-stack web developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9kcDBzbnRvNWc1eDZmMjZod3k5NnhmZW9reXBwb2Q0YmppcnY1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MY0RxkIuFuJUUfPcLv/giphy.gif" width="50"> and occasional freelance game developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxsbWlrY3p6aWkzaHIxaHE5YXUwYm52d3d2dWxheTB6M3IxN2NlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qlOj8G3VjWvV0qdnj4/giphy.gif" width="50">
+I'm a full-time full-stack web developer and occasional freelance game developer
 
 ---
 
@@ -26,6 +26,8 @@ I'm a full-time full-stack web developer <img src="https://i.giphy.com/media/v1.
 - 🤔 I’m looking for help with Game Boy emulators and coding up new game engines from scratch.
 - 💬 Ask me about the my favorite new programming language (for now): Odin.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taylor-mckinney-bb638398)
+- 󰈙 See my resume: [My resume](https://github.com/taylormck/resume/blob/master/resume.pdf)
+
 ---
 
 ### 🛠️Languages and Tools:
